@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'alvidir';
-  src:  url('https://raw.githubusercontent.com/alvidir/statics/main/fonts/alvidir/alvidir.eot?ml90q0');
-  src:  url('https://raw.githubusercontent.com/alvidir/statics/main/fonts/alvidir/alvidir.eot?ml90q0#iefix') format('embedded-opentype'),
-    url('https://raw.githubusercontent.com/alvidir/statics/main/fonts/alvidir/alvidir.ttf?ml90q0') format('truetype'),
-    url('https://raw.githubusercontent.com/alvidir/statics/main/fonts/alvidir/alvidir.woff?ml90q0') format('woff'),
-    url('https://raw.githubusercontent.com/alvidir/statics/main/fonts/alvidir/alvidir.svg?ml90q0#alvidir') format('svg');
+  src:  url('https://alvidir.github.io/fonts/alvidir/alvidir.eot?ml90q0');
+  src:  url('https://alvidir.github.io/fonts/alvidir/alvidir.eot?ml90q0#iefix') format('embedded-opentype'),
+    url('https://alvidir.github.io/fonts/alvidir/alvidir.ttf?ml90q0') format('truetype'),
+    url('https://alvidir.github.io/fonts/alvidir/alvidir.woff?ml90q0') format('woff'),
+    url('https://alvidir.github.io/fonts/alvidir/alvidir.svg?ml90q0#alvidir') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
